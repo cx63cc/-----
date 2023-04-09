@@ -1,0 +1,27 @@
+以下是一些学习 Go 语言的网站：
+
+1. Go 官方网站：https://golang.org/
+2. Go 中文网：https://studygolang.com/
+3. Go by Example：https://gobyexample.com/
+4. Go Web 编程：https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/
+5. Go 语言圣经：https://books.studygolang.com/gopl-zh/
+
+以下是一些知名的 Go 语言开源项目：
+
+1. Kubernetes：https://github.com/kubernetes/kubernetes
+2. Docker：https://github.com/docker/docker-ce
+3. Etcd：https://github.com/etcd-io/etcd
+4. CockroachDB：https://github.com/cockroachdb/cockroach
+5. Prometheus：https://github.com/prometheus/prometheus
+
+这些项目都是非常优秀的开源项目，值得学习和关注。
+
+当然，以下是一些其他的知名的 Go 语言开源项目：
+
+1. GolangCI-Lint：https://github.com/golangci/golangci-lint
+2. Gin：https://github.com/gin-gonic/gin
+3. Beego：https://github.com/astaxie/beego
+4. Hugo：https://github.com/gohugoio/hugo
+5. Buffalo：https://github.com/gobuffalo/buffalo
+
+这些项目都是非常优秀的开源项目，涵盖了不同的领域和用途，可以根据自己的兴趣和需求选择学习和关注。
